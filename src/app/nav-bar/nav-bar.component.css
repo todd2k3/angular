@@ -1,0 +1,15 @@
+a {
+    color: #005577;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: orange;
+}
+#nav {
+    background-color: white;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 1em;
+    padding-right: 0;
+}

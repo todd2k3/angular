@@ -1,0 +1,15 @@
+.section-header {
+    font-weight: bold;
+}
+#container {
+    margin: 1em 1em 0 1em;
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    padding: 0;
+}
+h2.page {
+    margin-left: 2em;
+}
+#viewPage {
+    padding: 10px;
+}
